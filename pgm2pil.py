@@ -47,7 +47,7 @@ def pgm2pil(filename):
 
         
     except:
-        print('Shit')
+        #print('Shit')
         pass
 
     return None

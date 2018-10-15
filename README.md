@@ -1,6 +1,6 @@
-# CSI 5138 Homework Exercise 2
+# CSI 5139 Assignment 1
 
-This homework explores backpropagation, hypothesis space, hard coded learning classifiers, and classifying MNIST dataset using soft-max regression, MLP and CNN.
+This assignment explores using the CMU Image dataset, and train binary and multiclass linear classifier.
 
 ## Jupyter Notebook and Python
 
@@ -8,10 +8,14 @@ This homework makes use of [jupyter notebook](http://jupyter.org/) written in py
 
 ## Files
 
-`Homework2.ipynb`: Answers to questions 1, 2, 3, 4, as well as a written report discussing along the way.
+`ImageLabeling_LinearClassification.ipynb`: Python code.
 
-`images`: Images used in the report.
+`dataset`: CMU Image dataset of faces.
+
+`pgm2pil.py`: pgm image loader.
+
+`misc_cmd.py`: Test code for pgm image loader.
 
 ## GitHub
 
-This homework can also be found on the following [github account](https://github.com/sofa13/csi5138_a2).
+This homework can also be found on the following [github account](https://github.com/sofa13/csi5139_a1).
